@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <!--定义日志文件的存储路径-->
-    <!--<property name="LOG_HOME" value="/var/tmp/website-blog-admin"/>-->
-    <springProperty scope="context" name="logdir" source="logging.path"/>
+    <property name="logdir" value="/var/logs/website-blog-admin"/>
+<!--    <springProperty scope="context" name="logdir" source="logging.path"/>-->
 
     <!-- 控制台 appender -->
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
