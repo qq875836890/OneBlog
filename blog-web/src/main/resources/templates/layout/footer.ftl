@@ -120,7 +120,6 @@
                             <li><a href="${config.siteUrl}/disclaimer" title="免责声明" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-o fa-fw"></i>免责声明</a></li>
                         </ul>
                         </p>
-                        <p>托管于<a href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wylo59db" target="_blank" title="阿里云-为了无法计算的价值" data-toggle="tooltip" data-placement="bottom" rel="external nofollow">阿里云</a> & <a href="https://portal.qiniu.com/signup?code=3l8yx2v0f21ci" target="_blank" title="七牛云-国内领先的企业级云服务商" data-toggle="tooltip" data-placement="bottom" rel="external nofollow">七牛云</a><#if config.recordNumber!> · <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank" title="查看备案信息" data-toggle="tooltip" data-placement="bottom" rel="external nofollow">${config.recordNumber}</a></#if></p>
                     </div>
                     <div class="col col-md-4"></div>
                 </div>
@@ -135,12 +134,6 @@
                     <#if url?? && (url == "index")>
                         <div class="inline external-links">
                             <a>友情链接：</a>
-                            <a href="https://justauth.wiki" target="_blank" title="开箱即用的整合第三方登录的开源组件" data-toggle="tooltip" data-placement="right">
-                                JustAuth
-                            </a>
-                            <a href="https://justauth.plus" target="_blank" title="一款开源的登录认证中间件，支持 Form、 OAuth2.0、OIDC、Http Basic、Digest、Bearer、LDAP、SAML、MFA、SSO 等" data-toggle="tooltip" data-placement="right">
-                                JAP
-                            </a>
                             <#if indexLinkList?? && (indexLinkList?size > 0)>
                                 <#list indexLinkList as item>
                                     <a href="${item.url}" target="_blank" title="${item.description!}" data-toggle="tooltip" data-placement="right">
