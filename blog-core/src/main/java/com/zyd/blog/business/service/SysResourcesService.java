@@ -11,9 +11,9 @@ import java.util.Map;
 /**
  * 系统资源
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/16 16:26
  * @since 1.0
  */

@@ -4,7 +4,7 @@
  *
  * @date 2018-01-05 10:57
  * @author zhyd(yadong.zhang0415#gmail.com)
- * @link https://docs.zhyd.me
+ * @link
  */
 var _form = {
     valid: function(form){

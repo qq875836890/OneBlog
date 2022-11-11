@@ -2,8 +2,8 @@
  *
  * 图片预览
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
- * @website https://docs.zhyd.me
+ * @author
+ * @website
  * @version 1.0
  * @date 2018-04-25
  * @since 1.0

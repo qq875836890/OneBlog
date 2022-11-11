@@ -23,9 +23,9 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 系统通知-- 首页菜单下方滚动显示
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/24 14:37
  * @since 1.0
  */

@@ -3,9 +3,9 @@ package com.zyd.blog.controller;
 /**
  * 页面渲染相关 -- 页面跳转
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/24 14:37
  * @since 1.0
  */
@@ -37,9 +37,9 @@ import java.util.Arrays;
 /**
  * 页面跳转类
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/24 14:37
  * @since 1.0
  */

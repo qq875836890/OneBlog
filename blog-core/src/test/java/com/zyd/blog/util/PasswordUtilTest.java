@@ -5,9 +5,9 @@ import org.junit.Test;
 /**
  * 密码加密测试工具类
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website 
  * @date 2018/4/18 11:48
  * @since 1.0
  */

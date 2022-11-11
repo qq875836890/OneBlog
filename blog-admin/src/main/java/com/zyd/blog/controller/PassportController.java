@@ -30,9 +30,9 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * 登录相关
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author 
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website 
  * @date 2018/4/24 14:37
  * @since 1.0
  */

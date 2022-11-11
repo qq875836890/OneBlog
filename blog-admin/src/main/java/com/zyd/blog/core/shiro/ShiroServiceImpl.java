@@ -28,9 +28,9 @@ import java.util.Map;
 /**
  * Shiro-权限相关的业务处理
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/25 14:37
  * @since 1.0
  */

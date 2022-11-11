@@ -8,9 +8,9 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 获取IP的工具类
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author 
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/18 11:48
  * @since 1.0
  */

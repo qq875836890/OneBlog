@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * 广告位置
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author 
  * @version 1.0.0
  * @since 1.0.0
  */

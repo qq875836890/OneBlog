@@ -24,9 +24,9 @@ import java.util.stream.Collectors;
 /**
  * 自定义的freemarker标签
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author 
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2018/4/16 16:26
  * @modify by zhyd 2018-09-20
  * 调整实现，所有自定义标签只需继承BaseTag后通过构造函数将自定义标签类的className传递给父类即可。

@@ -1,7 +1,7 @@
 /**
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
- * @website https://docs.zhyd.me
+ * @author
+ * @website
  * @version 1.0
  * @date 2017-04-01
  * @since 1.0
@@ -206,15 +206,15 @@ $(function () {
     initArticeMenu();
     initScrollMenu();
 
-    console.group("关于 OneBlog");
-    console.log("OneBlog，一个简洁美观、功能强大并且自适应的Java博客\n欢迎进QQ交流群（190886500）");
-    console.groupEnd();
-    console.group("推荐开源");
-    console.log("%c开源不易，在此推一下开源项目！", "color:red;font-size:12px;font-weight:blod");
-    console.log("%c① JustAuth，开箱即用的整合第三方登录的开源组件：https://github.com/justauth/JustAuth", "color:green;font-size:12px;font-weight:blod");
-    console.log("%c② JAP，一款开源的登录认证中间件，支持 Form、 OAuth2.0、OIDC、Http Basic、Digest、Bearer、LDAP、SAML、MFA、SSO 等：https://gitee.com/fujieid/jap", "color:green;font-size:12px;font-weight:blod");
-    console.log("%c欢迎关注、star、推荐", "color:green;font-size:12px;font-weight:blod");
-    console.groupEnd();
+    // console.group("关于 OneBlog");
+    // console.log("OneBlog，一个简洁美观、功能强大并且自适应的Java博客\n欢迎进QQ交流群（190886500）");
+    // console.groupEnd();
+    // console.group("推荐开源");
+    // console.log("%c开源不易，在此推一下开源项目！", "color:red;font-size:12px;font-weight:blod");
+    // console.log("%c① JustAuth，开箱即用的整合第三方登录的开源组件：https://github.com/justauth/JustAuth", "color:green;font-size:12px;font-weight:blod");
+    // console.log("%c② JAP，一款开源的登录认证中间件，支持 Form、 OAuth2.0、OIDC、Http Basic、Digest、Bearer、LDAP、SAML、MFA、SSO 等：https://gitee.com/fujieid/jap", "color:green;font-size:12px;font-weight:blod");
+    // console.log("%c欢迎关注、star、推荐", "color:green;font-size:12px;font-weight:blod");
+    // console.groupEnd();
 
     $('.to-top').toTop({
         autohide: true,//返回顶部按钮是否自动隐藏。可以设置true或false。默认为true

@@ -59,7 +59,7 @@
                     </ul>
                     <div class="oauth-line">
                         <span style="font-size: 12px">
-                            Powered by <a href="https://gitee.com/fujieid/jap" target="_blank">JustAuthPlus(JAP)</a>
+                            Powered by <a href="#" target="_blank">呀哈哈</a>
                         </span>
                     </div>
                 </div>

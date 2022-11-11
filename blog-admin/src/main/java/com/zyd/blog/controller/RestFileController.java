@@ -16,9 +16,9 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 文件管理
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author 
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2019/2/14 11:37
  * @since 1.0
  */

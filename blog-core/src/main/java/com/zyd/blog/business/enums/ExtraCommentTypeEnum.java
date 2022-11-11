@@ -1,9 +1,9 @@
 package com.zyd.blog.business.enums;
 
 /**
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author 
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2019/2/12 10:20
  * @since 1.8
  */

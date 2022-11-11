@@ -1,9 +1,9 @@
 package com.zyd.blog.file.exception;
 
 /**
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website
  * @date 2017/7/12 10:29
  * @since 1.8
  */

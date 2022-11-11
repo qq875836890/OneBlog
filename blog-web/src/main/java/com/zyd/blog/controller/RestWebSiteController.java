@@ -16,9 +16,9 @@ import java.util.Map;
 /**
  * 站点相关的接口类，主要为sitemap和robots的生成
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author
  * @version 1.0
- * @website https://docs.zhyd.me
+ * @website 
  * @date 2018/4/18 11:48
  * @since 1.0
  */
