@@ -295,4 +295,9 @@ public class RenderController {
         return ResultUtil.view("updateLog");
     }
 
+    @GetMapping("/stand")
+    @BussinessLog(value = "我的页面", platform = PlatformEnum.WEB)
+    public ModelAndView stand(Model model) {
+        return ResultUtil.view("stand");
+    }
 }
